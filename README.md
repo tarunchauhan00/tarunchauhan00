@@ -1,72 +1,80 @@
-<!-- Header with an animated GIF or image -->
+<!-- Neon Effect Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBP4vRE9LQk1oeA/giphy.gif" alt="Welcome" width="400"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Neon Animated Header" width="600"/>
 </p>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Your Name</a>! 👋</h1>
+<h1 align="center" style="color: #39ff14; text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14;">
+  Hey, I'm <a href="https://github.com/yourusername" style="color: #39ff14; text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14;">Your Name</a>! 👋
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer_Science-Student-blue" alt="Student Badge">
-  <img src="https://img.shields.io/badge/Passionate-Coder-red" alt="Coding Badge">
-  <img src="https://img.shields.io/badge/Explorer-Web%20Dev-orange" alt="Web Dev Badge">
+  <span style="font-size: 1.2em; color: #39ff14; text-shadow: 0 0 5px #39ff14;">A passionate CS student exploring the neon side of code</span>
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+## <span style="color: #39ff14; text-shadow: 0 0 5px #39ff14;">👨‍🎓 About Me</span>
 
-I'm a passionate **Computer Science student** with a love for coding and problem-solving. I enjoy diving into new technologies, whether it's exploring web development, mastering machine learning, or building mobile apps. My goal is to turn ideas into reality through clean, efficient code.
+I'm a **Computer Science student** diving into the world of code with a neon twist. I enjoy turning ideas into reality with creative solutions and a splash of vibrant color.
 
-- 🔭 I’m currently working on exciting projects in **[Project Domain/Tech Stack]**.
-- 🌱 I’m currently learning **[New Technology/Framework]**.
-- 👯 I’m looking to collaborate on **open-source projects** or innovative research.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 🔭 Currently experimenting with **Full-Stack Development & AI** projects.
+- 🌱 Learning new technologies like **Rust** and **TensorFlow**.
+- 🎯 Passionate about solving problems and bringing innovation to life.
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-## 🛠️ Skills & Technologies
+## <span style="color: #39ff14; text-shadow: 0 0 5px #39ff14;">🛠️ My Tech Arsenal</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
-**Frameworks & Tools:**
+**Other Tools & Technologies:**
 
-- **Web:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, VSCode, Linux
-- **Concepts:** Data Structures, Algorithms, OOP, Design Patterns
-
----
-
-## 📂 Featured Projects
-
-Here are a few projects I’ve been working on:
-
-- **[Project 1 Name](https://github.com/yourusername/project1)**  
-  *A brief description of the project highlighting its key features and technologies.*
-
-- **[Project 2 Name](https://github.com/yourusername/project2)**  
-  *A brief description of the project highlighting its key features and technologies.*
-
-- **[Project 3 Name](https://github.com/yourusername/project3)**  
-  *A brief description of the project highlighting its key features and technologies.*
+- **Frameworks:** Express, Django, Flask
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Docker, Git, VSCode, Linux
 
 ---
 
-## 📊 GitHub Stats
+## <span style="color: #39ff14; text-shadow: 0 0 5px #39ff14;">🚀 Projects in Action</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <a href="https://github.com/yourusername/project1" target="_blank">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Project 1" width="250"/>
+  </a>
+  <a href="https://github.com/yourusername/project2" target="_blank">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Project 2" width="250"/>
+  </a>
+  <a href="https://github.com/yourusername/project3" target="_blank">
+    <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Project 3" width="250"/>
+  </a>
+</p>
+
+- **[Project 1 Name](https://github.com/yourusername/project1):** A brief description of the project with neon-inspired innovation.
+- **[Project 2 Name](https://github.com/yourusername/project2):** A brief description highlighting the creative tech behind it.
+- **[Project 3 Name](https://github.com/yourusername/project3):** A brief description of how this project lights up my code.
+
+---
+
+## <span style="color: #39ff14; text-shadow: 0 0 5px #39ff14;">📈 GitHub Activity</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&show_icons=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## <span style="color: #39ff14; text-shadow: 0 0 5px #39ff14;">🤝 Let's Connect</span>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
@@ -83,5 +91,9 @@ Here are a few projects I’ve been working on:
 ---
 
 <p align="center">
-  <em>Thank you for visiting my profile. Let's build something awesome together! 🚀</em>
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Let's collaborate!" width="300"/>
+</p>
+
+<p align="center" style="color: #39ff14; text-shadow: 0 0 5px #39ff14;">
+  <em>Thanks for stopping by! Let's code something awesome together. 🚀</em>
 </p>
